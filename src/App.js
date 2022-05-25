@@ -231,7 +231,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-               {data.totalSupply} / NONE OF YOUR BUSINESS 
+               {data.totalSupply} / 3333
             </s.TextTitle>
             <s.TextDescription
               style={{
@@ -254,7 +254,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Sold Out
+                 ELVES Sold Out
                 </s.TextTitle>
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
