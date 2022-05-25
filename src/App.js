@@ -231,7 +231,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-               {data.totalSupply} / 3777
+               {data.totalSupply} / NONE OF YOUR BUSINESS
             </s.TextTitle>
             <s.TextDescription
               style={{
